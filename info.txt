@@ -1,0 +1,7 @@
+php artisan migrate:fresh --seed
+
+php artisan serve
+
+super admin email: admin@gmail.com
+
+super admin password: password
